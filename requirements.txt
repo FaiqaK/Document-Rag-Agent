@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit 
 langchain 
 langchain-openai
@@ -7,4 +8,15 @@ faiss-cpu
 pypdf
 docx2txt
 pandas
+=======
+streamlit 
+langchain 
+langchain-openai
+langchain-community 
+langchain-text-splitters
+faiss-cpu
+pypdf
+docx2txt
+pandas
+>>>>>>> 7e554598c5ee128ccbdcdec0aa7b5a2e95a35bdc
 openpyxl
